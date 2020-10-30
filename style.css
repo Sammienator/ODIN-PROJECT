@@ -22,7 +22,7 @@ body {
   opacity: 1;
 }
 a {
-  color: black;
+  color: rgb(50, 7, 245);
 }
 a:link {
   text-decoration: none;
@@ -69,12 +69,6 @@ a:hover {
   padding-top: 4px;
 }
 
-#mag-glass {
-  height: 15px;
-  width: 30px;
-  padding-left: 20px;
-  padding-top: 2px;
-}
 
 .buttons {
   display: flex;
@@ -94,18 +88,7 @@ a:hover {
   border: solid 1px #c6c6c6;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
 }
-#feeling-lucky {
-  margin: 11px 4px 11px 8px;
-  border: 1px;
-  padding: 10px;
-  background-color: rgb(242, 242, 242);
-  border-radius: 5px;
-}
 
-#feeling-lucky:hover {
-  border: solid 1px #c6c6c6;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-}
 
 .footer {
   background-color: rgb(242, 242, 242);
